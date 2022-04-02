@@ -1,5 +1,5 @@
 # codejam 2022
 
-This is my Google Code Jam code repository.
+This is my Google Code Jam 2022 repository.
 
-Code is written in Clojure.
+The solutions are written in Clojure.
